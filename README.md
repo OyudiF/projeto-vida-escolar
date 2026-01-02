@@ -1,2 +1,2 @@
-# proejeto-vida-escolar
-Projeto que fiz para meu setor poder buscar e adicionar escolas em uma base de dados
+# Projeto para meu setor
+Fiz esse projeto para que meu setor tivesse mais facilidade para buscar informações que mais usamos de escolas, e consequentemente adicionar novas informações também
