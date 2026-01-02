@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>C:\Users\386244818\OneDrive - Secretaria Municipal de São Paulo\Documentos\Estudos\projetos\VIDA-ESCOLAR\|publish\</PublishUrlHistory>
+    <InstallUrlHistory>https://smeprefeituraspgov.sharepoint.com/:f:/s/EquipeNTIC/EmeUqbwKWa1Noaazsj_NY8EBKXL8v3zqJJpvFcMPX6mmuQ%3fe=E1AvkV/</InstallUrlHistory>
+    <SupportUrlHistory />
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>pt-BR</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+</Project>
